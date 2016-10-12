@@ -30,7 +30,7 @@ describe "The Party" do
 
   describe "#cause_havoc" do
     it "raises an error if undefined" do
-      expect { partygoer.cause_havoc }.to raise_error(PersonalizedHavocError, "You should define this yourself!")
+      expect { partygoer.cause_havoc }.to raise_error(PersonalizedHavocError, "I've been Geoffrey'd! I need to stroke the furry wall!")
     end
   end
 
