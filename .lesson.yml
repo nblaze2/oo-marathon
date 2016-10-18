@@ -1,7 +1,16 @@
 ---
+<<<<<<< HEAD
 title: "Party Module"
 type: "exercise"
 description: "You're having a party, and it's up to you to maintain some decency. "
 tags: "oop, inheritance"
 ignore:
 - "party-module.md"
+=======
+title: "Object Oriented Marathon"
+type: "challenge"
+description: "Build a zoo full of Ruby animals."
+tags: "oop, exceptions"
+ignore:
+- "oo-marathon.md"
+>>>>>>> 8d125eae2bdef64eabc7342409c993747b305e1d

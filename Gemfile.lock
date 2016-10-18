@@ -1,5 +1,9 @@
 GEM
+<<<<<<< HEAD
   remote: https://www.rubygems.org/
+=======
+  remote: https://rubygems.org/
+>>>>>>> 8d125eae2bdef64eabc7342409c993747b305e1d
   specs:
     coderay (1.1.0)
     diff-lcs (1.2.5)
